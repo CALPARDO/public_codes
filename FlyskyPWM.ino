@@ -1,4 +1,4 @@
-/*For more info go to www.calpardo.com */
+/* For more info go to www.calpardo.com  */
 
 int PWM_ROLL = 13; //Define Digital PIN
 int PWM_PITCH = 12; //Define Digital PIN
